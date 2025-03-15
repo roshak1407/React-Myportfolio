@@ -23,7 +23,7 @@ const Contact = () => {
         <br/>
         <a href="#" className="border-b">{CONTACT.email2}</a>
         <br/>
-        <a href="#" className="border-b my-4 text-base hover:text-xl transition-all duration-300">Click to view my resume</a>
+        <a href="https://drive.google.com/file/d/1gDcsF9NXXfRxsWhl-dZhNVHFpYPoF6Rs/view?usp=sharing" className="border-b my-4 text-base hover:text-xl transition-all duration-300">Click to view my resume</a>
         
       </div>
     </div>
